@@ -1,0 +1,16 @@
+			{============================================================}
+			|                          CREDIT                            |
+			|============================================================|
+			|                                                            |
+			|         Phirates-Calc - Calculator Using Binary Tree       |
+			|                                                            |
+			|                       CREATED By :                         |
+			|	    Aini Diah Rahmawati	[211524033]                  |
+			|	    Egi Satria Dharma Yudha Wicaksana [211524040]    |
+			|	    Reza Ananta Permadi Supriyo	[211425059]          |
+			|                                                            |
+			|                                                            |
+			|     Copyright(c)2022 Phirates-Calc.All rights reserved.    |
+			|============================================================|
+			@============================================================~
+				

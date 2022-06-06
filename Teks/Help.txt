@@ -1,0 +1,38 @@
+			{======================================================================================}
+			|					   HELP				 	       |
+			|======================================================================================|
+			|    			   	  How to Use Calculator		 		       |
+			|======================================================================================|
+			|Aplikasi Phirates Calculator memiliki 5 fitur, diantaranya:          		       |
+			|         									       |
+			|1. Kalkulator Standar               						       |
+			|        - Untuk menggunakan fitur ini, input angka 1.                                 |
+			|	     Setelah itu, akan tampil tampilan kalkulator              		       |
+			|        - Anda dapat menginputkan ekspresi matematika dengan jumlah maksimal          |
+			|          sebanyak 50 karakter.              		                               |
+			|          Setelah itu maka akan tampil hasil perhitungan.              	       |
+			|        - Operator yang berlaku pada fitur ini antara lain :          		       |
+			|          () --> Pengelompok Operasi             				       |
+			|          ^  --> Operator Pangkat                				       | 
+			|          v  --> Operator Akar                   				       |
+			|          *  --> Operator Kali                   				       |
+			|          /  --> Operator Bagi              					       |
+			|          %  --> Operator Persen              					       |
+			|          +  --> Operator Tambah              					       |
+			|          -  --> Operator Kurang              					       |
+			|        - Operand dapat digunakan berupa bilangan bulat, bilangan desimal,            |
+			|          nol, bernilai positif atau bernilai negatif.           		       |
+			|                       					                       |
+			|2. Konversi                						               |
+			|        - Untuk menggunakan fitur ini, input angka 2. Setelah itu, akan tampil        |
+			|          tampilan konversi. Yang terdiri dari :             			       |
+			|          [1] Konversi Suhu                 					       |
+			|          [2] Konversi Sistem Bilangan             				       |
+			|        - Jika memilih [1] Konversi Suhu maka terdapat pilihan konversi suhu,	       |
+			|	     diantaranya:							       |
+			|          [1] Celcius               	                                               |
+			|          [2] Reamur               				                       |
+			|          [3] Fahrenheit                                                              |
+			|          [4] Kelvin               					               |
+			|        - Untuk menggunakan fitur ini Anda diminta untuk memasukkan angka suhunya.    |
+			@======================================================================================~
